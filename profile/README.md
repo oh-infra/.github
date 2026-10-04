@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/oh-infra/.github/main/profile/assets/banner.svg" alt="Oh My Infra — Learn the system. Build it together." width="100%" />
 </p>
 
-<h1 align="center">Oh My Infra · 开源学习与实践计划</h1>
+<h1 align="center">Oh My Infra · 开源实践计划</h1>
 
 <p align="center">
   <strong>贯穿 CS Infra 与 AI Infra，在实践中理解系统，在协作中成为贡献者。</strong>
