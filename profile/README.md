@@ -8,7 +8,7 @@
   <strong>贯穿 CS Infra 与 AI Infra，在实践中理解系统，在协作中成为贡献者。</strong>
 </p>
 
-<p align="center">全年持续开放 · 按个人进度学习 · 人与人协作</p>
+<p align="center">全年持续开放 · 按个人进度学习 · 强调人与人协作</p>
 
 <p align="center">
   <a href="https://github.com/oh-infra/oh-my-infra" title="Oh My Infra 主仓库：在线讲义和实验内容"><strong>在线讲义与实验</strong></a>
