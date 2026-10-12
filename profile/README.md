@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/oh-infra/.github/main/profile/assets/banner.svg" alt="Oh My Infra — Learn the system. Build it together." width="100%" />
 </p>
 
-<h1 align="center">Oh My Infra · 开源实践计划</h1>
+<h1 align="center">Oh My Infra · 开源实践平台</h1>
 
 <p align="center">
   <strong>贯穿 CS Infra 与 AI Infra，在实践中理解系统，在协作中成为贡献者。</strong>
@@ -22,6 +22,6 @@
 
 ---
 
-Oh My Infra 由[格维开源社区](https://github.com/gevico)发起，延续 [QEMU 训练营](https://github.com/qemu-camp)的课程与实验经验，面向现代计算基础设施建设长期开放的学习与实践路径。我们希望帮助初学者掌握系统开发的方法，建立参与开源的信心，并在共同解决问题的过程中结识伙伴、建立信任，持续参与社区和项目建设。
+Oh My Infra 是由[格维开源社区](https://gevico.online/?lang=zh)和[华科开放原子开源俱乐部](https://github.com/hust-open-atom-club)共同主办的开源 Infra 技术学习与实践平台，延续 [QEMU 训练营](https://github.com/qemu-camp)的课程与实验经验，面向现代计算基础设施建设长期开放的学习与实践路径。我们希望帮助初学者掌握系统开发的方法，建立参与开源的信心，并在共同解决问题的过程中结识伙伴、建立信任，持续参与社区和项目建设。
 
 **筹备中 · 计划于 2027 年启动。** 课程、实验、项目任务与参与规则正在建设，正式开放信息将在本组织发布。
